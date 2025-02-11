@@ -14,3 +14,12 @@ my_stupid_list = generate_random_list()
 
 # Write your code below this comment, good luck!
 
+the_last_one = my_stupid_list[-1]
+print (the_last_one)
+
+
+#print( my_stupid_list)
+#print(len(my_stupid_list))
+#print(my_stupid_list[0])
+#print(my_stupid_list[-1])
+

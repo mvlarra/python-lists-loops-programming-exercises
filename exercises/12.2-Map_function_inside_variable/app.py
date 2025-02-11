@@ -4,3 +4,7 @@ def prepender(name):
     return "My name is: " + name
     
 # Your code here
+
+result =  list(map(prepender, names))
+
+print (result)
